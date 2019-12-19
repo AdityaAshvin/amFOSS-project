@@ -16,7 +16,5 @@ These instructions will get you a copy of the project up and running on your loc
 >- [For Mac OS](https://www.webucator.com/how-to/how-install-start-test-xampp-on-mac-osx.cfm)
 >- [For Ubuntu](https://vitux.com/how-to-install-xampp-on-your-ubuntu-18-04-lts-system/)
 > ## Running the project in your local machine
-> Clone the project to your local machine using the given below code in the Git terminal.
-> '''
-> git clone https://github.com/AdityaAshvin/amFOSS-project.git
-> '''
+> Clone the project to your local machine using the given code in the Git terminal.
+> 'git clone https://github.com/AdityaAshvin/amFOSS-project.git'
