@@ -1,4 +1,4 @@
-# amFOSS-project
+# amFOSS-project[Event Registration Website]
 # Overview of the Project
 > The project consists of the following pages
 >- A Landing page.
