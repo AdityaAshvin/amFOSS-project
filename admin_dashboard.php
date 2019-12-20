@@ -22,7 +22,7 @@ function Table($query)
         <title>Participants List</title>
         <link rel="stylesheet" type="text/css" href="style3.css">
         <link rel="stylesheet" type="text/css"
-        href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+         href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
         <h1>Welcome <?php echo $_SESSION['user']?><h1>
         <h2>The participants that are attending the event are,</h2>
         <style>
@@ -35,17 +35,17 @@ function Table($query)
     <body>
               <table>
                 <tr>
-                    <th>UserName</th>
+                    <th>Serial Number</th>
+                    <th>username</th>
                     <th>email-id</th>
-                    <th>password</th>
                 </tr>
 
       <!-- filling up the table by taking values from the database -->
                 <?php while($row = mysqli_fetch_array($search_result)):?>
                 <tr>
+                    <td><?php echo $row['indexnumber'];?></td>
                     <td><?php echo $row['username'];?></td>
                     <td><?php echo $row['email'];?></td>
-                    <td><?php echo $row['password'];?></td>
                 </tr>
                 <?php endwhile;?>
             </table>
