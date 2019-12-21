@@ -22,8 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
 >- Check whether MySQL and Apache are up and running.
 >- Then open ur browser and type **http://localhost/amFOSS-project/LandingPage.html**
 >- For a better and neater UI use **http://localhost/amFOSS-project/index.html**
-### Admin Login credentials: 1) USERNAME-AdityaAshvin PASSWORD-123456
-   ### 2) USERNAME-hello PASSWORD-hola
+
 ### LandingPage:-
 ![landingPage](images/LandingPage_improvedUI.png)
 ### admin dashboard:-
@@ -31,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### admin login page:-
 ![admin login](images/Admin_Login_and_registration_page.png)
 ### participant lagin and registration page:-
-![participant login and registration](images/Participant_Login_and_registartion_page.png)
+![participant login and registration](images/Participant_Login_and_registration_page.png)
 # Built with
 >- PHP-Programming language
 >- HTML-Programming language
