@@ -24,7 +24,12 @@ These instructions will get you a copy of the project up and running on your loc
 >- For a better and neater UI use **http://localhost/amFOSS-project/index.html**
 ### Admin Login credentials: 1) USERNAME-AdityaAshvin PASSWORD-123456
    ### 2) USERNAME-hello PASSWORD-hola
-### Screenshots of the project:- [Screenshots](https://github.com/AdityaAshvin/amFOSS-project/tree/master/images)
+### LandingPage:-
+![landingPage](images/LandingPage_improvedUI.png)
+### admin dashboard:-
+![admin dashboard](images/admin_dashboard.png)
+### admin login page:-
+![admin login](images/admin_login_and_registration_page.png)
 # Built with
 >- PHP-Programming language
 >- HTML-Programming language
