@@ -29,7 +29,7 @@ These instructions will get you a copy of the project up and running on your loc
 ![admin dashboard](images/admin_dashboard.png)
 ### admin login page:-
 ![admin login](images/Admin_Login_and_registration_page.png)
-### participant lagin and registration page:-
+### participant login and registration page:-
 ![participant login and registration](images/Participant_Login_and_registration_page.png)
 # Built with
 >- PHP-Programming language
