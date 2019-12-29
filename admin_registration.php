@@ -15,7 +15,7 @@ if($stmt = mysqli_prepare($link, $sql)){
     
     // Set parameters
     $username = $_REQUEST['user'];
-    $email = $_REQUEST['email-id'];
+    $email = $_REQUEST['email'];
     $password = $_REQUEST['password'];
     
     // Attempt to execute the prepared statement
