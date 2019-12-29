@@ -22,6 +22,13 @@ These instructions will get you a copy of the project up and running on your loc
 >- Check whether MySQL and Apache are up and running.
 >- Then open ur browser and type **http://localhost/amFOSS-project/LandingPage.html**
 >- For a better and neater UI use **http://localhost/amFOSS-project/index.html**
+> ## Working with phpMyadmin
+>- Open your browser and paste this url *http://localhost/phpmyadmin/*
+>- Create a database with name as **event_registration_admin**. Then create a list named as **lists** in the database. create three colums one each for ***username, email and password***.
+>- Similarly create another database with name as **event_registration_participant**. Then create a list named as **lists** in the database. create four colums one each for ***indexnumber, username, email and password***.
+>- Go to the ***user accounts*** settings and change the password for the **username-root and host name-localhost** to ***aditya@1234***(You can also create a new user with these username, host name and password)
+>- You may encouter an error stating * acess denied for user root@localhost(using password:YES)* here to solve this issue you have to modify the ***config.inc.php*** file in the xamp folder. you just have to insert the password ***aditya@1234*** in the space enclosed by the double quotes.
+>- Once you have done the above mentioned steps the project will be up and running in your local machine.
 
 ### LandingPage:-
 ![landingPage](images/LandingPage_improvedUI.png)
