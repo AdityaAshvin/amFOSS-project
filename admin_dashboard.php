@@ -23,7 +23,7 @@ function Table($query)
         <link rel="stylesheet" type="text/css" href="style3.css">
         <link rel="stylesheet" type="text/css"
          href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-        <h1>Welcome <?php echo $_SESSION['user']?><h1>
+        <h1>Welcome <?php echo strtoupper($_SESSION['user'])?><h1>
         <h2>The participants that are attending the event are,</h2>
         <style>
             table,tr,th,td
