@@ -15,6 +15,16 @@ These instructions will get you a copy of the project up and running on your loc
 >- [For Windows](https://pureinfotech.com/install-xampp-windows-10/)
 >- [For Mac OS](https://www.webucator.com/how-to/how-install-start-test-xampp-on-mac-osx.cfm)
 >- [For Ubuntu](https://vitux.com/how-to-install-xampp-on-your-ubuntu-18-04-lts-system/)
+> If you don't want to use xampp you can also use, 
+>- [WAMP](https://www.instructables.com/id/Installing-WAMP-Server/) 
+>- [LAMP](https://medium.com/better-programming/how-to-install-lamp-stack-on-ubuntu-db77ac018116) For Ubuntu
+>- [LEMP](https://www.google.com/amp/s/websiteforstudents.com/how-to-install-lemp-on-ubuntu-16-04-18-04-18-10/amp/) 
+>- [MAMP](https://documentation.mamp.info/en/MAMP-Mac/Installation/) For Mac OS
+>- AMPPS
+>- WPN-XM
+>- EasyPHP
+>- Final Words
+
 > ## Running the project in your local machine
 >- Clone the project to your local machine using the given code in the Git terminal.
 > **git clone https://github.com/AdityaAshvin/amFOSS-project.git**
