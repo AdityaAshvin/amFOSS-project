@@ -26,7 +26,7 @@
          </form>
      </div>
 
-<div class="col-md-6 login-right">
+<div class="col-md-6 login-right">                                #Remove this part after the superuser is registered.
          <h2> Register Here </h2>
          <form action="admin_registration.php" method="post">
           <div class="form-group">
@@ -43,5 +43,5 @@
              </div>
              <button type="submit" class="btn btn-primary"> Register </button>
 </form>
-</div>
+</div>                                                                                   
 </body>
