@@ -1,1 +1,5 @@
-
+Mention how to install the setup and run the program in the readme, i.e. install xampp etc.
+Make readme clear with correct markdown. Properly format it and make it look appealing to a user.
+Make file names correct (success, sucess2,temp). These file names don't really suggest anything. Name them more sensibly. Checkout out other projects on GitHub and see how files are names.
+There are a lot of spelling mistakes in files names
+There are a lot of non-preferable errors when logged in as a different user
