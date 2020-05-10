@@ -1,5 +1,5 @@
 # amFOSS-project[Event Registration Website]
-## 2.0 https://github.com/AdityaAshvin/Event_Registration_website
+## Event Registration Website 2.0 https://github.com/AdityaAshvin/Event_Registration_website
 # Overview of the Project
 > The project consists of the following pages
 >- A Landing page.
